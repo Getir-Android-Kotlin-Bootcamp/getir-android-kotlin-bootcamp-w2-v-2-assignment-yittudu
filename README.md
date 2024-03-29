@@ -11,3 +11,5 @@
 1 - Set Location sayfasının tasarımının kodlanması
 
 2- Sayfa açıldığında haritada mevcut konuma yönlendirilmesi
+
+bendeki github linki https://github.com/yittudu/w2-getir
