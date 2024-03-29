@@ -11,3 +11,5 @@
 1 - Set Location sayfasının tasarımının kodlanması
 
 2- Sayfa açıldığında haritada mevcut konuma yönlendirilmesi
+
+uygulamayı anlatan yotube linki https://www.youtube.com/watch?v=UMm8qi08JaA
