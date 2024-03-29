@@ -13,3 +13,5 @@
 2- Sayfa açıldığında haritada mevcut konuma yönlendirilmesi
 
 bendeki github linki https://github.com/yittudu/w2-getir
+
+youtube linki     https://youtu.be/UMm8qi08JaA
